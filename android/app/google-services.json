@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178833870932",
+    "project_id": "jeff-test-33065",
+    "storage_bucket": "jeff-test-33065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178833870932:android:34ba532bb42304271e9dc1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_jeffrey_dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178833870932-mn81bt5tcc21mimlqv44kbbpsjd3d402.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzEhqvHT11k75c3UQGVC8Fllf0pAnP8Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178833870932-mn81bt5tcc21mimlqv44kbbpsjd3d402.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
